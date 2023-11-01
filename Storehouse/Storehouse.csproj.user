@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form_part_PSI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_part_update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_product_update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_workorder_detail_add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_workorder_main_add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_product_add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_product_PSI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_workorder_detail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_part_add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_workorder_main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_workorder_detail_update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_workorder_main_update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

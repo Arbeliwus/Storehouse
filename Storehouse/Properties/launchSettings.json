@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Storehouse": {
+      "commandName": "Project",
+      "sqlDebugging": true
+    }
+  }
+}

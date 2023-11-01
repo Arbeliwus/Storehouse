@@ -1,0 +1,96 @@
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\bin\Debug\net6.0-windows\Storehouse.exe
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\bin\Debug\net6.0-windows\Storehouse.deps.json
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\bin\Debug\net6.0-windows\Storehouse.runtimeconfig.json
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\bin\Debug\net6.0-windows\Storehouse.dll
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\bin\Debug\net6.0-windows\Storehouse.pdb
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.csproj.AssemblyReference.cache
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.CreateInfoDialog.resources
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.csproj.GenerateResource.cache
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.AssemblyInfoInputs.cache
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.AssemblyInfo.cs
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.csproj.CoreCompileInputs.cache
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.csproj.CopyComplete
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.dll
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\obj\Debug\net6.0-windows\refint\Storehouse.dll
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.pdb
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.genruntimeconfig.cache
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\obj\Debug\net6.0-windows\ref\Storehouse.dll
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.Form1.resources
+C:\Users\chu89\OneDrive\Document\5AT\Storehouse\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.Form2.resources
+C:\Users\user\Downloads\Storehouse\Storehouse\bin\Debug\net6.0-windows\Storehouse.exe
+C:\Users\user\Downloads\Storehouse\Storehouse\bin\Debug\net6.0-windows\Storehouse.deps.json
+C:\Users\user\Downloads\Storehouse\Storehouse\bin\Debug\net6.0-windows\Storehouse.runtimeconfig.json
+C:\Users\user\Downloads\Storehouse\Storehouse\bin\Debug\net6.0-windows\Storehouse.dll
+C:\Users\user\Downloads\Storehouse\Storehouse\bin\Debug\net6.0-windows\Storehouse.pdb
+C:\Users\user\Downloads\Storehouse\Storehouse\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Downloads\Storehouse\Storehouse\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Downloads\Storehouse\Storehouse\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Downloads\Storehouse\Storehouse\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Downloads\Storehouse\Storehouse\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Downloads\Storehouse\Storehouse\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Downloads\Storehouse\Storehouse\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Downloads\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.CreateInfoDialog.resources
+C:\Users\user\Downloads\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.Form1.resources
+C:\Users\user\Downloads\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.Form2.resources
+C:\Users\user\Downloads\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.AssemblyInfo.cs
+C:\Users\user\Downloads\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.csproj.CopyComplete
+C:\Users\user\Downloads\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.dll
+C:\Users\user\Downloads\Storehouse\Storehouse\obj\Debug\net6.0-windows\refint\Storehouse.dll
+C:\Users\user\Downloads\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.pdb
+C:\Users\user\Downloads\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.genruntimeconfig.cache
+C:\Users\user\Downloads\Storehouse\Storehouse\obj\Debug\net6.0-windows\ref\Storehouse.dll
+C:\Users\user\Downloads\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.Properties.Resources.resources
+C:\Users\user\Downloads\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.ConsumablesTrack_form.resources
+C:\Users\user\Downloads\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.workorder_form.resources
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\bin\Debug\net6.0-windows\Storehouse.exe
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\bin\Debug\net6.0-windows\Storehouse.deps.json
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\bin\Debug\net6.0-windows\Storehouse.runtimeconfig.json
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\bin\Debug\net6.0-windows\Storehouse.dll
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\bin\Debug\net6.0-windows\Storehouse.pdb
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.Form_login.resources
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.Properties.Resources.resources
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.csproj.GenerateResource.cache
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.AssemblyInfo.cs
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.csproj.CopyComplete
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.dll
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\refint\Storehouse.dll
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.pdb
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.genruntimeconfig.cache
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\ref\Storehouse.dll
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.Form_main.resources
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.Form_part_add.resources
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.Form_part_PSI.resources
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.Form_workorder_detail.resources
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.Form_workorder_detail_add.resources
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.Form_workorder_detail_update.resources
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.Form_workorder_main.resources
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.Form_workorder_main_add.resources
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.Form_workorder_main_update.resources
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.Form_part_update.resources
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.Form_product_add.resources
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.Form_product_PSI.resources
+C:\Users\user\Desktop\NHU Information\阿漳老大\倉管系統\Storehouse\Storehouse\obj\Debug\net6.0-windows\Storehouse.Form_product_update.resources
